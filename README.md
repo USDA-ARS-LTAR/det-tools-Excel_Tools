@@ -5,7 +5,7 @@ Current tools:
 1. GN-RP_AccessToExcel converts Access Database for a specific project into an xlsx file with the same data.
 
 2. GN-RP_ConvertDETToFlatWorkbook processes the indicated DET into a flat (data only, formatting cleared) workbook of the project name.
-  Note the *.xlsm file name is assumed to be <GN/RP>" "<Project>" "<Date>" "<pre/pub>.xlsm
+  Note the *.xlsm file name is assumed to be (GN/RP)" "(Project)" "(Date)" "(pre/pub).xlsm
 
 3. GN-RP_EnteredDataVerification.xlsm checks that the indicated DET has data in the proper format. This tool checks for spaces, missing data, and so on.
 
